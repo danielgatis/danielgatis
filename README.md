@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 days ago)
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 day ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (4 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 month ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 month ago)
-- [danielgatis/kitchen-sink](https://github.com/danielgatis/kitchen-sink) - kitchen-sink (2 months ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (today)
-- [adrg/sysfont](https://github.com/adrg/sysfont) - Golang identification and matching of system fonts (5 days ago)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (5 days ago)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code (5 days ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (5 days ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 day ago)
+- [adrg/sysfont](https://github.com/adrg/sysfont) - Golang identification and matching of system fonts (6 days ago)
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (6 days ago)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code (6 days ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (6 days ago)
 
 #### 📫 How to reach me
 
