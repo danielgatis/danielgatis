@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.3](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.3), 6 days ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.3](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.3), 1 week ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.57](https://github.com/danielgatis/rembg/releases/tag/v2.0.57), 2 months ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.0.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.0.0), 4 months ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 6 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 day ago)
+- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (2 days ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 week ago)
 - [adrg/sysfont](https://github.com/adrg/sysfont) - Golang identification and matching of system fonts (1 week ago)
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (1 week ago)
