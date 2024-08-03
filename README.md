@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (2 days ago)
-- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (6 days ago)
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (3 days ago)
+- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 week ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 week ago)
 - [adrg/sysfont](https://github.com/adrg/sysfont) - Golang identification and matching of system fonts (2 weeks ago)
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (2 weeks ago)
