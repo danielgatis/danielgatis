@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (2 weeks ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 weeks ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 month ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.58](https://github.com/danielgatis/rembg/releases/tag/v2.0.58), today) - Rembg is a tool to remove images background
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.3](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.3), 1 week ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.58](https://github.com/danielgatis/rembg/releases/tag/v2.0.58), 1 day ago) - Rembg is a tool to remove images background
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.3](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.3), 2 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.0.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.0.0), 4 months ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 6 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.0](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.0), 6 months ago) - A state machine based UTF8 parser
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (4 days ago)
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (5 days ago)
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 week ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (2 weeks ago)
 - [adrg/sysfont](https://github.com/adrg/sysfont) - Golang identification and matching of system fonts (2 weeks ago)
