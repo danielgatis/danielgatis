@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (today)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 day ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (3 weeks ago)
@@ -31,9 +31,9 @@
 
 #### ⭐ Recent Stars
 
-- [team-dodn/spring-boot-kotlin-template](https://github.com/team-dodn/spring-boot-kotlin-template) - SpringBoot basic structure template based on Kotlin (6 days ago)
-- [VNAPNIC/kotlin-spring-boot](https://github.com/VNAPNIC/kotlin-spring-boot) - Server res API use Kotlin spring boot (6 days ago)
-- [currenjin/kopring-multi-module-template](https://github.com/currenjin/kopring-multi-module-template) - Kotlin &#43; Spring Multi module Template(Layered Architecture 🏗️) (6 days ago)
+- [team-dodn/spring-boot-kotlin-template](https://github.com/team-dodn/spring-boot-kotlin-template) - SpringBoot basic structure template based on Kotlin (1 week ago)
+- [VNAPNIC/kotlin-spring-boot](https://github.com/VNAPNIC/kotlin-spring-boot) - Server res API use Kotlin spring boot (1 week ago)
+- [currenjin/kopring-multi-module-template](https://github.com/currenjin/kopring-multi-module-template) - Kotlin &#43; Spring Multi module Template(Layered Architecture 🏗️) (1 week ago)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (2 weeks ago)
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (2 weeks ago)
 
