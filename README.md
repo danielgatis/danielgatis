@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
-- [danielgatis/kitchen-sink](https://github.com/danielgatis/kitchen-sink) - kitchen-sink
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-iterator](https://github.com/danielgatis/go-iterator) - This package provides an iterator interface and a slice iterator implementation
+- [danielgatis/go-asql](https://github.com/danielgatis/go-asql) - A Go package that makes it easier to run SQL queries async
 
 #### 🔭 Latest releases I've contributed to
 
