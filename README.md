@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 weeks ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 month ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (1 month ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.58](https://github.com/danielgatis/rembg/releases/tag/v2.0.58), 3 weeks ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.59](https://github.com/danielgatis/rembg/releases/tag/v2.0.59), today) - Rembg is a tool to remove images background
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.3](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.3), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.0.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.0.0), 5 months ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 7 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
