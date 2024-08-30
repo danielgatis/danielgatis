@@ -34,7 +34,7 @@
 - [team-dodn/spring-boot-kotlin-template](https://github.com/team-dodn/spring-boot-kotlin-template) - SpringBoot basic structure template based on Kotlin (3 weeks ago)
 - [VNAPNIC/kotlin-spring-boot](https://github.com/VNAPNIC/kotlin-spring-boot) - Server res API use Kotlin spring boot (3 weeks ago)
 - [currenjin/kopring-multi-module-template](https://github.com/currenjin/kopring-multi-module-template) - Kotlin &#43; Spring Multi module Template(Layered Architecture 🏗️) (3 weeks ago)
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (1 month ago)
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫 (1 month ago)
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 month ago)
 
 #### 📫 How to reach me
