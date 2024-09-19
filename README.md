@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (today)
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳 (1 week ago)
 - [zenstok/nestjs-auth-refresh-token-example](https://github.com/zenstok/nestjs-auth-refresh-token-example) - This is an example of how to implement refresh tokens in NestJS.  This project is based on the article &#34;How to Implement Refresh Tokens with Token Rotation in NestJS&#34;. (1 week ago)
 - [team-dodn/spring-boot-kotlin-template](https://github.com/team-dodn/spring-boot-kotlin-template) - SpringBoot basic structure template based on Kotlin (1 month ago)
 - [VNAPNIC/kotlin-spring-boot](https://github.com/VNAPNIC/kotlin-spring-boot) - Server res API use Kotlin spring boot (1 month ago)
-- [currenjin/kopring-multi-module-template](https://github.com/currenjin/kopring-multi-module-template) - Kotlin &#43; Spring Multi module Template(Layered Architecture 🏗️) (1 month ago)
 
 #### 📫 How to reach me
 
