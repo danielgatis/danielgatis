@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [rubyatscale/packs-rails](https://github.com/rubyatscale/packs-rails) - packs-rails establishes and implements a set of conventions for splitting up large monoliths. (3 days ago)
+- [rubyatscale/packs-rails](https://github.com/rubyatscale/packs-rails) - packs-rails establishes and implements a set of conventions for splitting up large monoliths. (4 days ago)
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (1 week ago)
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳 (2 weeks ago)
 - [zenstok/nestjs-auth-refresh-token-example](https://github.com/zenstok/nestjs-auth-refresh-token-example) - This is an example of how to implement refresh tokens in NestJS.  This project is based on the article &#34;How to Implement Refresh Tokens with Token Rotation in NestJS&#34;. (3 weeks ago)
