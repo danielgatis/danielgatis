@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (today)
 - [rubyatscale/packs-rails](https://github.com/rubyatscale/packs-rails) - packs-rails establishes and implements a set of conventions for splitting up large monoliths. (1 week ago)
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (1 week ago)
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳 (3 weeks ago)
 - [zenstok/nestjs-auth-refresh-token-example](https://github.com/zenstok/nestjs-auth-refresh-token-example) - This is an example of how to implement refresh tokens in NestJS.  This project is based on the article &#34;How to Implement Refresh Tokens with Token Rotation in NestJS&#34;. (3 weeks ago)
-- [team-dodn/spring-boot-kotlin-template](https://github.com/team-dodn/spring-boot-kotlin-template) - SpringBoot basic structure template based on Kotlin (1 month ago)
 
 #### 📫 How to reach me
 
