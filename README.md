@@ -6,7 +6,7 @@
 
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 week ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 week ago)
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 week ago)
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 
@@ -33,7 +33,7 @@
 
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (2 weeks ago)
 - [rubyatscale/packs-rails](https://github.com/rubyatscale/packs-rails) - packs-rails establishes and implements a set of conventions for splitting up large monoliths. (3 weeks ago)
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (4 weeks ago)
+- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (1 month ago)
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳 (1 month ago)
 - [zenstok/nestjs-auth-refresh-token-example](https://github.com/zenstok/nestjs-auth-refresh-token-example) - This is an example of how to implement refresh tokens in NestJS.  This project is based on the article &#34;How to Implement Refresh Tokens with Token Rotation in NestJS&#34;. (1 month ago)
 
