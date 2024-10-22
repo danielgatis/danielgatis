@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 week ago)
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 week ago)
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (2 weeks ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.6](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.6), 1 week ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.6](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.6), 2 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.8](https://github.com/danielgatis/go-vte/releases/tag/v1.0.8), 2 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.59](https://github.com/danielgatis/rembg/releases/tag/v2.0.59), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.0.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.0.0), 7 months ago) - The Ruby Prism parser bindings to GO (without cgo)
