@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it. (4 days ago)
+- [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it. (5 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 month ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 month ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 4 days ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
+- [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 5 days ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.6](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.6), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.8](https://github.com/danielgatis/go-vte/releases/tag/v1.0.8), 1 month ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.59](https://github.com/danielgatis/rembg/releases/tag/v2.0.59), 2 months ago) - Rembg is a tool to remove images background
