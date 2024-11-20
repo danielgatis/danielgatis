@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add python 3.13 support](https://github.com/danielgatis/rembg/pull/692) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
 
