@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (2 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (3 days ago)
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it. (1 week ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 month ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 month ago)
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code. (today)
+- [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code. (1 day ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 month ago)
 - [rubyatscale/packs-rails](https://github.com/rubyatscale/packs-rails) - packs-rails establishes and implements a set of conventions for splitting up large monoliths. (1 month ago)
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (2 months ago)
