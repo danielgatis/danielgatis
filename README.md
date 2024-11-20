@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.60](https://github.com/danielgatis/rembg/releases/tag/v2.0.60), today) - Rembg is a tool to remove images background
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 1 week ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.6](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.6), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.8](https://github.com/danielgatis/go-vte/releases/tag/v1.0.8), 1 month ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.59](https://github.com/danielgatis/rembg/releases/tag/v2.0.59), 2 months ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.0.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.0.0), 8 months ago) - The Ruby Prism parser bindings to GO (without cgo)
 
 #### 🔨 My recent Pull Requests
