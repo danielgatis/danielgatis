@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (2 weeks ago)
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it. (2 weeks ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 month ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 month ago)
