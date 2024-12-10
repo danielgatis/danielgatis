@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix for issue #4](https://github.com/danielgatis/go-ansicode/pull/5) on [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) (today)
 
 #### ⭐ Recent Stars
 
