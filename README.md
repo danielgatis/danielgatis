@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (4 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (5 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 week ago)
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it. (1 month ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.8](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.8), 4 days ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.8](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.8), 5 days ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.60](https://github.com/danielgatis/rembg/releases/tag/v2.0.60), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 1 month ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.8](https://github.com/danielgatis/go-vte/releases/tag/v1.0.8), 2 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix for issue #4](https://github.com/danielgatis/go-ansicode/pull/5) on [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) (4 days ago)
+- [fix for issue #4](https://github.com/danielgatis/go-ansicode/pull/5) on [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) (5 days ago)
 
 #### ⭐ Recent Stars
 
