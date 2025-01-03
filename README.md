@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.61](https://github.com/danielgatis/rembg/releases/tag/v2.0.61), 1 week ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.61](https://github.com/danielgatis/rembg/releases/tag/v2.0.61), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.8](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.8), 3 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 1 month ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.8](https://github.com/danielgatis/go-vte/releases/tag/v1.0.8), 2 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
