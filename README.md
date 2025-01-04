@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (today)
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (today)
-- [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser (today)
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 day ago)
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 day ago)
+- [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser (1 day ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (1 week ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), today) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
-- [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.1](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.1), today) - A state machine based UTF8 parser
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 1 day ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 1 day ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
+- [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.1](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.1), 1 day ago) - A state machine based UTF8 parser
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.61](https://github.com/danielgatis/rembg/releases/tag/v2.0.61), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 1 month ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 
