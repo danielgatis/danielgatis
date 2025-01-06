@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 day ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (today)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (3 days ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (3 days ago)
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser (3 days ago)
