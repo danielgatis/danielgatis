@@ -32,11 +32,11 @@
 
 #### ⭐ Recent Stars
 
+- [digihunch/orthweb](https://github.com/digihunch/orthweb) - Orthanc Solution on AWS (today)
+- [aws-samples/orthanc-cdk-deployment](https://github.com/aws-samples/orthanc-cdk-deployment) -  (today)
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (today)
 - [Go-Learning-Land/Go-Jobs-List](https://github.com/Go-Learning-Land/Go-Jobs-List) - Collection of websites for golang jobs in same place. (1 day ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
-- [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code. (1 month ago)
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (3 months ago)
 
 #### 📫 How to reach me
 
