@@ -32,11 +32,11 @@
 
 #### ⭐ Recent Stars
 
+- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (today)
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup &amp; management for Debian-based devices (today)
 - [digihunch/orthweb](https://github.com/digihunch/orthweb) - Orthanc Solution on AWS (1 day ago)
 - [aws-samples/orthanc-cdk-deployment](https://github.com/aws-samples/orthanc-cdk-deployment) -  (1 day ago)
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (1 day ago)
-- [Go-Learning-Land/Go-Jobs-List](https://github.com/Go-Learning-Land/Go-Jobs-List) - Collection of websites for golang jobs in same place. (2 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
 
 #### 📫 How to reach me
 
