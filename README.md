@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (5 days ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (6 days ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 week ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (1 week ago)
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser (1 week ago)
@@ -28,15 +28,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ruby prism version](https://github.com/danielgatis/go-ruby-prism/pull/3) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (5 days ago)
+- [Update ruby prism version](https://github.com/danielgatis/go-ruby-prism/pull/3) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (today)
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup &amp; management for Debian-based devices (today)
-- [digihunch/orthweb](https://github.com/digihunch/orthweb) - Orthanc Solution on AWS (1 day ago)
-- [aws-samples/orthanc-cdk-deployment](https://github.com/aws-samples/orthanc-cdk-deployment) -  (1 day ago)
-- [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (1 day ago)
+- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (1 day ago)
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup &amp; management for Debian-based devices (1 day ago)
+- [digihunch/orthweb](https://github.com/digihunch/orthweb) - Orthanc Solution on AWS (2 days ago)
+- [aws-samples/orthanc-cdk-deployment](https://github.com/aws-samples/orthanc-cdk-deployment) -  (2 days ago)
+- [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (2 days ago)
 
 #### 📫 How to reach me
 
