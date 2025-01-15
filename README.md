@@ -32,11 +32,11 @@
 
 #### ⭐ Recent Stars
 
-- [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (today)
-- [drkmsmithjr/wifi-connect-headless-rpi](https://github.com/drkmsmithjr/wifi-connect-headless-rpi) - Easy WiFi setup for Raspberry Pi devices from your mobile phone or laptop (today)
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go. (today)
-- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (3 days ago)
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup &amp; management for Debian-based devices (3 days ago)
+- [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (1 day ago)
+- [drkmsmithjr/wifi-connect-headless-rpi](https://github.com/drkmsmithjr/wifi-connect-headless-rpi) - Easy WiFi setup for Raspberry Pi devices from your mobile phone or laptop (1 day ago)
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go. (1 day ago)
+- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (4 days ago)
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup &amp; management for Debian-based devices (4 days ago)
 
 #### 📫 How to reach me
 
