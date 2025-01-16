@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ruby prism version](https://github.com/danielgatis/go-ruby-prism/pull/3) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (1 week ago)
 
 #### ⭐ Recent Stars
 
