@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 week ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 weeks ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (2 weeks ago)
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser (2 weeks ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update ruby prism version](https://github.com/danielgatis/go-ruby-prism/pull/3) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (1 week ago)
 
 #### ⭐ Recent Stars
 
