@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (today)
 - [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (2 days ago)
 - [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (3 days ago)
 - [drkmsmithjr/wifi-connect-headless-rpi](https://github.com/drkmsmithjr/wifi-connect-headless-rpi) - Easy WiFi setup for Raspberry Pi devices from your mobile phone or laptop (3 days ago)
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go. (3 days ago)
-- [23ewrdtf/Captive-Portal](https://github.com/23ewrdtf/Captive-Portal) - Easy to setup Captive Portal on Raspberry Pi (6 days ago)
 
 #### 📫 How to reach me
 
