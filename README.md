@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 weeks ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 weeks ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations (2 weeks ago)
@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
-- [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (3 days ago)
-- [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (3 days ago)
-- [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (5 days ago)
-- [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (6 days ago)
-- [drkmsmithjr/wifi-connect-headless-rpi](https://github.com/drkmsmithjr/wifi-connect-headless-rpi) - Easy WiFi setup for Raspberry Pi devices from your mobile phone or laptop (6 days ago)
+- [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (4 days ago)
+- [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (4 days ago)
+- [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (6 days ago)
+- [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (1 week ago)
+- [drkmsmithjr/wifi-connect-headless-rpi](https://github.com/drkmsmithjr/wifi-connect-headless-rpi) - Easy WiFi setup for Raspberry Pi devices from your mobile phone or laptop (1 week ago)
 
 #### 📫 How to reach me
 
