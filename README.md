@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (today)
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆 (4 days ago)
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (1 week ago)
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (1 week ago)
 - [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (1 week ago)
-- [OpenAgricultureFoundation/python-wifi-connect](https://github.com/OpenAgricultureFoundation/python-wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop (1 week ago)
 
 #### 📫 How to reach me
 
