@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (4 days ago)
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (5 days ago)
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆 (1 week ago)
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (1 week ago)
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (1 week ago)
