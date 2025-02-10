@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (2 weeks ago)
@@ -24,7 +24,7 @@
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 1 month ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.1](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.1), 1 month ago) - A state machine based UTF8 parser
-- [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 2 months ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
+- [danielgatis/docscan](https://github.com/danielgatis/docscan) ([v1.0.6](https://github.com/danielgatis/docscan/releases/tag/v1.0.6), 3 months ago) - Docscan is a document scanner. Take a photo of your documents and frame it.
 
 #### 🔨 My recent Pull Requests
 
