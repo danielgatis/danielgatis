@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
-- [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (2 weeks ago)
+- [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (3 weeks ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 month ago)
 
 #### 🌱 My latest projects
@@ -35,7 +35,7 @@
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆 (3 weeks ago)
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (3 weeks ago)
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (3 weeks ago)
-- [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (3 weeks ago)
+- [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (4 weeks ago)
 
 #### 📫 How to reach me
 
