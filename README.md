@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (3 weeks ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 month ago)
