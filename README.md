@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).  (today)
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero (3 weeks ago)
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆 (3 weeks ago)
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images (4 weeks ago)
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager (4 weeks ago)
-- [sabhiram/raspberry-wifi-conf](https://github.com/sabhiram/raspberry-wifi-conf) - Raspberry Pi Node application which makes connecting to your home wifi easier (1 month ago)
 
 #### 📫 How to reach me
 
