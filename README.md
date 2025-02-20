@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: remove unused providers parameter from session constructors](https://github.com/danielgatis/rembg/pull/725) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
 
