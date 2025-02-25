@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.2](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.2), today) - Diagnes Agent Public Releases
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.63](https://github.com/danielgatis/rembg/releases/tag/v2.0.63), 4 days ago) - Rembg is a tool to remove images background
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.1](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.1), 6 days ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 1 month ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.1](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.1), 1 month ago) - A state machine based UTF8 parser
