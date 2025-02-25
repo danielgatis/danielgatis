@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [swiss: update build tag to support Go 1.20 to 1.25 range](https://github.com/cockroachdb/swiss/pull/41) on [cockroachdb/swiss](https://github.com/cockroachdb/swiss) (today)
 - [refactor: remove unused providers parameter from session constructors](https://github.com/danielgatis/rembg/pull/725) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (5 days ago)
 
 #### ⭐ Recent Stars
