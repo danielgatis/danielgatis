@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 day ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (2 weeks ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (1 month ago)
 
 #### 🌱 My latest projects
