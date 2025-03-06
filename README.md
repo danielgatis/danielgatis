@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 day ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (2 weeks ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (1 month ago)
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [swiss: update build tag to support Go 1.20 to 1.25 range](https://github.com/cockroachdb/swiss/pull/41) on [cockroachdb/swiss](https://github.com/cockroachdb/swiss) (1 week ago)
-- [refactor: remove unused providers parameter from session constructors](https://github.com/danielgatis/rembg/pull/725) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 week ago)
+- [refactor: remove unused providers parameter from session constructors](https://github.com/danielgatis/rembg/pull/725) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
