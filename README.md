@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (3 weeks ago)
