@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (3 weeks ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (1 month ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.64](https://github.com/danielgatis/rembg/releases/tag/v2.0.64), 3 days ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.64](https://github.com/danielgatis/rembg/releases/tag/v2.0.64), 4 days ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.2](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.2), 1 week ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 2 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 2 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
