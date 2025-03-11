@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (5 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (3 weeks ago)
 - [danielgatis/go-logrus-adapters](https://github.com/danielgatis/go-logrus-adapters) - A collection of adapters for logrus pkg. (1 month ago)
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.64](https://github.com/danielgatis/rembg/releases/tag/v2.0.64), 4 days ago) - Rembg is a tool to remove images background
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.2](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.2), 1 week ago) - Diagnes Agent Public Releases
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.64](https://github.com/danielgatis/rembg/releases/tag/v2.0.64), 5 days ago) - Rembg is a tool to remove images background
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.2](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.2), 2 weeks ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 2 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 2 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) ([v1.0.1](https://github.com/danielgatis/go-utf8/releases/tag/v1.0.1), 2 months ago) - A state machine based UTF8 parser
 
 #### 🔨 My recent Pull Requests
 
-- [swiss: update build tag to support Go 1.20 to 1.25 range](https://github.com/cockroachdb/swiss/pull/41) on [cockroachdb/swiss](https://github.com/cockroachdb/swiss) (1 week ago)
+- [swiss: update build tag to support Go 1.20 to 1.25 range](https://github.com/cockroachdb/swiss/pull/41) on [cockroachdb/swiss](https://github.com/cockroachdb/swiss) (2 weeks ago)
 - [refactor: remove unused providers parameter from session constructors](https://github.com/danielgatis/rembg/pull/725) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (2 weeks ago)
 
 #### ⭐ Recent Stars
