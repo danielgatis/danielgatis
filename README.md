@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [swiss: update build tag to support Go 1.20 to 1.25 range](https://github.com/cockroachdb/swiss/pull/41) on [cockroachdb/swiss](https://github.com/cockroachdb/swiss) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
