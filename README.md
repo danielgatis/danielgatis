@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (1 day ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases (1 month ago)
 
 #### 🌱 My latest projects
