@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.11](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.11), today) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.21](https://github.com/danielgatis/imgcat/releases/tag/v1.0.21), 1 week ago) - Display images and gifs in your terminal.
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.9](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.9), 2 weeks ago) - Diagnes Agent Public Releases
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.65](https://github.com/danielgatis/rembg/releases/tag/v2.0.65), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 3 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 3 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
