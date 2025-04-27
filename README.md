@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 weeks ago)
 - [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (1 month ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.10](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.10), 3 days ago) - Diagnes Agent Public Releases
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.10](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.10), 4 days ago) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.21](https://github.com/danielgatis/imgcat/releases/tag/v1.0.21), 2 weeks ago) - Display images and gifs in your terminal.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.65](https://github.com/danielgatis/rembg/releases/tag/v2.0.65), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 3 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
