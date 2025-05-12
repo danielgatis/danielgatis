@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (6 days ago)
 - [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (1 month ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (4 days ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (5 days ago)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (1 week ago)
 - [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (3 weeks ago)
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM. (2 months ago)
