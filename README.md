@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (6 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 weeks ago)
 - [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (1 month ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.25](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.25), today) - Diagnes Agent Public Releases
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.66](https://github.com/danielgatis/rembg/releases/tag/v2.0.66), 6 days ago) - Rembg is a tool to remove images background
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.25](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.25), 1 day ago) - Diagnes Agent Public Releases
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.66](https://github.com/danielgatis/rembg/releases/tag/v2.0.66), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.21](https://github.com/danielgatis/imgcat/releases/tag/v1.0.21), 1 month ago) - Display images and gifs in your terminal.
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 4 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 4 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 weeks ago)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (2 weeks ago)
 - [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (1 month ago)
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM. (2 months ago)
