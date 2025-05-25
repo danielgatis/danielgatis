@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.25](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.25), 4 days ago) - Diagnes Agent Public Releases
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.25](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.25), 5 days ago) - Diagnes Agent Public Releases
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.66](https://github.com/danielgatis/rembg/releases/tag/v2.0.66), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.21](https://github.com/danielgatis/imgcat/releases/tag/v1.0.21), 1 month ago) - Display images and gifs in your terminal.
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 4 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
@@ -31,9 +31,9 @@
 
 #### ⭐ Recent Stars
 
-- [aws-samples/aws-healthimaging-samples](https://github.com/aws-samples/aws-healthimaging-samples) - Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale. (3 days ago)
+- [aws-samples/aws-healthimaging-samples](https://github.com/aws-samples/aws-healthimaging-samples) - Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale. (4 days ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 weeks ago)
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (2 weeks ago)
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (3 weeks ago)
 - [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (1 month ago)
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM. (3 months ago)
 
