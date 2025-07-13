@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (6 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 weeks ago)
