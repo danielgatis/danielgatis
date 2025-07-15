@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) -  (today)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 weeks ago)
-- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), today) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 2 weeks ago) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.22](https://github.com/danielgatis/imgcat/releases/tag/v1.0.22), 3 weeks ago) - Display images and gifs in your terminal.
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 6 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.9](https://github.com/danielgatis/go-vte/releases/tag/v1.0.9), 6 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
 
