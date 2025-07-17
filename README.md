@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
-- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) -  (1 day ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) -  (2 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), 1 day ago) - 
+- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), 2 days ago) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 2 weeks ago) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.22](https://github.com/danielgatis/imgcat/releases/tag/v1.0.22), 3 weeks ago) - Display images and gifs in your terminal.
@@ -35,7 +35,7 @@
 - [aws-samples/aws-healthimaging-samples](https://github.com/aws-samples/aws-healthimaging-samples) - Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale. (1 month ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 months ago)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (2 months ago)
-- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (2 months ago)
+- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (3 months ago)
 
 #### 📫 How to reach me
 
