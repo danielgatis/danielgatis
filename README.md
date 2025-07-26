@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) -  (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 weeks ago)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v2.0.1](https://github.com/danielgatis/go-ruby-prism/releases/tag/v2.0.1), today) - The Ruby Prism parser bindings to GO (without cgo)
 - [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), 1 week ago) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 4 weeks ago) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.22](https://github.com/danielgatis/imgcat/releases/tag/v1.0.22), 1 month ago) - Display images and gifs in your terminal.
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 6 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 
 #### 🔨 My recent Pull Requests
 
