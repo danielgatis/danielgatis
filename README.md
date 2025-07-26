@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v2.0.1](https://github.com/danielgatis/go-ruby-prism/releases/tag/v2.0.1), today) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), today) - The Ruby Prism parser bindings to GO (without cgo)
 - [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), 1 week ago) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 4 weeks ago) - Diagnes Agent Public Releases
