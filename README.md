@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 day ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 days ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) -  (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 weeks ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 1 day ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 2 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v0.0.2](https://github.com/atilarec/dawa-agent-releases/releases/tag/v0.0.2), 1 week ago) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 1 month ago) - Diagnes Agent Public Releases
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (1 month ago)
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (2 months ago)
 - [aws-samples/aws-healthimaging-samples](https://github.com/aws-samples/aws-healthimaging-samples) - Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale. (2 months ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 months ago)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (2 months ago)
