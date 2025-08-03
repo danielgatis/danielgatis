@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file (today)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (2 months ago)
 - [aws-samples/aws-healthimaging-samples](https://github.com/aws-samples/aws-healthimaging-samples) - Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale. (2 months ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 months ago)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify (3 months ago)
-- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (3 months ago)
 
 #### 📫 How to reach me
 
