@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [atilarec/dawa-agent-releases](https://github.com/atilarec/dawa-agent-releases) ([v1.0.0](https://github.com/atilarec/dawa-agent-releases/releases/tag/v1.0.0), today) - 
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 1 week ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 4 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.27](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.27), 1 month ago) - Diagnes Agent Public Releases
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.22](https://github.com/danielgatis/imgcat/releases/tag/v1.0.22), 1 month ago) - Display images and gifs in your terminal.
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.9](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.9), 7 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 
 #### 🔨 My recent Pull Requests
 
