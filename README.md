@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
