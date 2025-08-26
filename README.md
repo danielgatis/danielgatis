@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.28](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.28), 1 week ago) - Diagnes Agent Public Releases
+- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.29](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.29), today) - Diagnes Agent Public Releases
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 1 month ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.22](https://github.com/danielgatis/imgcat/releases/tag/v1.0.22), 2 months ago) - Display images and gifs in your terminal.
