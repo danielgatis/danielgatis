@@ -8,7 +8,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 months ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 months ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 months ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 months ago)
 
 #### 🌱 My latest projects
 
