@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add poetry](https://github.com/danielgatis/rembg/pull/797) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 
 #### ⭐ Recent Stars
 
