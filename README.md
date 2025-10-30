@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (today)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
+- [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (1 day ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (3 months ago)
 
