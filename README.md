@@ -4,7 +4,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/lintrb](https://github.com/danielgatis/lintrb) -  (today)
 - [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (2 days ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
