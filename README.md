@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
+- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 
 #### 🔭 Latest releases I've contributed to
 
