@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (4 days ago)
+- [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (5 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
