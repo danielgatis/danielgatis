@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (1 day ago)
+- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (2 days ago)
 - [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (1 week ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 1 day ago) - A secure reverse-shell orchestration hub for managing remote devices
+- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 2 days ago) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.0](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.0), 1 month ago) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.30](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.30), 2 months ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 3 months ago) - The Ruby Prism parser bindings to GO (without cgo)
