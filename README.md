@@ -6,8 +6,8 @@
 
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (1 week ago)
 - [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (2 weeks ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 weeks ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -31,9 +31,9 @@
 
 #### ⭐ Recent Stars
 
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (5 days ago)
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (6 days ago)
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects (2 months ago)
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs 15 and Shadcn ui (2 months ago)
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs 15 and Shadcn ui (3 months ago)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file (3 months ago)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (5 months ago)
 
