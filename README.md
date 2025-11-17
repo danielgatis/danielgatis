@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.68](https://github.com/danielgatis/rembg/releases/tag/v2.0.68), today) - Rembg is a tool to remove images background
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 1 week ago) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.0](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.0), 1 month ago) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.30](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.30), 2 months ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 3 months ago) - The Ruby Prism parser bindings to GO (without cgo)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.67](https://github.com/danielgatis/rembg/releases/tag/v2.0.67), 4 months ago) - Rembg is a tool to remove images background
 
 #### 🔨 My recent Pull Requests
 
