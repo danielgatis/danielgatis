@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
-- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (2 weeks ago)
+- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (3 weeks ago)
 - [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (3 weeks ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 month ago)
@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.68](https://github.com/danielgatis/rembg/releases/tag/v2.0.68), 1 week ago) - Rembg is a tool to remove images background
-- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 2 weeks ago) - A secure reverse-shell orchestration hub for managing remote devices
+- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 3 weeks ago) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.0](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.0), 2 months ago) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.30](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.30), 3 months ago) - Diagnes Agent Public Releases
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 4 months ago) - The Ruby Prism parser bindings to GO (without cgo)
@@ -35,7 +35,7 @@
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects (3 months ago)
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI (3 months ago)
 - [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file (3 months ago)
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (5 months ago)
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (6 months ago)
 
 #### 📫 How to reach me
 
