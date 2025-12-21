@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom (today)
 - [marciok/gust](https://github.com/marciok/gust) - A Task-Based Workflow Orchestration Engine (2 weeks ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 month ago)
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects (3 months ago)
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI (4 months ago)
-- [Nature40/pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file (4 months ago)
 
 #### 📫 How to reach me
 
