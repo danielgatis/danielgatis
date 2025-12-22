@@ -4,34 +4,34 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library. (1 day ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (1 month ago)
 - [danielgatis/go-rafting](https://github.com/danielgatis/go-rafting) - A framework to build fault tolerant apps. (1 month ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - 
+- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library.
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo)
-- [danielgatis/go-utf8](https://github.com/danielgatis/go-utf8) - A state machine based UTF8 parser
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) ([v1.0.0](https://github.com/danielgatis/go-soundfont/releases/tag/v1.0.0), 1 day ago) - A pure Go SoundFont2 (.sf2) synthesizer library.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.69](https://github.com/danielgatis/rembg/releases/tag/v2.0.69), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) ([v1.0.0](https://github.com/danielgatis/revoshell/releases/tag/v1.0.0), 1 month ago) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.0](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.0), 3 months ago) - SH1106 driver 1.3 OLED
 - [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) ([v1.0.30](https://github.com/danielgatis/diagnes-agent-releases/releases/tag/v1.0.30), 3 months ago) - Diagnes Agent Public Releases
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.1.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.1.0), 4 months ago) - The Ruby Prism parser bindings to GO (without cgo)
 
 #### 🔨 My recent Pull Requests
 
 
 #### ⭐ Recent Stars
 
-- [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom (today)
+- [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom (1 day ago)
 - [marciok/gust](https://github.com/marciok/gust) - A Task-Based Workflow Orchestration Engine (2 weeks ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 month ago)
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects (3 months ago)
