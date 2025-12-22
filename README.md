@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library. (today)
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (today)
+- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library. (today)
 - [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom (1 day ago)
 - [marciok/gust](https://github.com/marciok/gust) - A Task-Based Workflow Orchestration Engine (2 weeks ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 month ago)
