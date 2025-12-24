@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (today)
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (2 days ago)
 - [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library. (3 days ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
-- [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices (1 month ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects.
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies.
 - [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library.
 - [danielgatis/revoshell](https://github.com/danielgatis/revoshell) - A secure reverse-shell orchestration hub for managing remote devices
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED
-- [danielgatis/diagnes-agent-releases](https://github.com/danielgatis/diagnes-agent-releases) - Diagnes Agent Public Releases
 
 #### 🔭 Latest releases I've contributed to
 
