@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.10](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.10), today) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.11](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.11), today) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.10](https://github.com/danielgatis/go-vte/releases/tag/v1.0.10), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) ([v1.0.0](https://github.com/danielgatis/go-doom/releases/tag/v1.0.0), 3 days ago) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies.
 - [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) ([v1.0.0](https://github.com/danielgatis/go-soundfont/releases/tag/v1.0.0), 4 days ago) - A pure Go SoundFont2 (.sf2) synthesizer library.
