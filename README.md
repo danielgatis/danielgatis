@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (today)
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (3 days ago)
 - [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library. (3 days ago)
 - [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) - Easily portable doom (4 days ago)
 - [marciok/gust](https://github.com/marciok/gust) - A Task-Based Workflow Orchestration Engine (2 weeks ago)
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 month ago)
 
 #### 📫 How to reach me
 
