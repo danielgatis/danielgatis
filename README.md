@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.4](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.4), today) - Headless, but fully terminal
+- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.5](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.5), today) - Headless, but fully terminal
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.12](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.12), today) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [danielgatis/go-findfont](https://github.com/danielgatis/go-findfont) ([v1.1.0](https://github.com/danielgatis/go-findfont/releases/tag/v1.1.0), 1 day ago) - Find system fonts through the fontconfig library (a.k.a `fc-match`).
