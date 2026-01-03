@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.71](https://github.com/danielgatis/rembg/releases/tag/v2.0.71), today) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), today) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 1 day ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 2 days ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 3 days ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
