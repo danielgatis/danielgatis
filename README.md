@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (2 days ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 days ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations. (3 days ago)
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 week ago)
-- [danielgatis/go-findfont](https://github.com/danielgatis/go-findfont) - Find system fonts through the fontconfig library (a.k.a `fc-match`). (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.70](https://github.com/danielgatis/rembg/releases/tag/v2.0.70), today) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 1 day ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 2 days ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 3 days ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 1 week ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
-- [danielgatis/go-findfont](https://github.com/danielgatis/go-findfont) ([v1.1.0](https://github.com/danielgatis/go-findfont/releases/tag/v1.1.0), 1 week ago) - Find system fonts through the fontconfig library (a.k.a `fc-match`).
 
 #### 🔨 My recent Pull Requests
 
