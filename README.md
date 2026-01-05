@@ -6,8 +6,8 @@
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 days ago)
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (4 days ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (4 days ago)
+- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (4 days ago)
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations. (5 days ago)
 
 #### 🌱 My latest projects
