@@ -23,7 +23,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 1 week ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 1 week ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 1 week ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 2 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 2 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
@@ -33,7 +33,7 @@
 
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 week ago)
 - [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (1 week ago)
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 week ago)
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
 - [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (2 weeks ago)
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (3 weeks ago)
 
