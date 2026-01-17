@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 weeks ago)
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (2 weeks ago)
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 1 week ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 2 weeks ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 2 weeks ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 2 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 2 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 3 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
 
