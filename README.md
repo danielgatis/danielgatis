@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (today)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 day ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 weeks ago)
@@ -35,7 +35,7 @@
 - [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (2 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
 - [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (3 weeks ago)
-- [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (3 weeks ago)
+- [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (4 weeks ago)
 
 #### 📫 How to reach me
 
