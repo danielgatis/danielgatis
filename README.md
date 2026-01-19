@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (today)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 day ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 weeks ago)
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) - 
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal.
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects.
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies.
-- [danielgatis/go-soundfont](https://github.com/danielgatis/go-soundfont) - A pure Go SoundFont2 (.sf2) synthesizer library.
 
 #### 🔭 Latest releases I've contributed to
 
