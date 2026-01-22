@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
-- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (2 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
+- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (3 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (4 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (2 weeks ago)
+- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 2 weeks ago) - Headless, but fully terminal.
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 2 weeks ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
+- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 3 weeks ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 3 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 3 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
@@ -32,9 +32,9 @@
 #### ⭐ Recent Stars
 
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 weeks ago)
-- [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (2 weeks ago)
+- [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (3 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
-- [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (3 weeks ago)
+- [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (4 weeks ago)
 - [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies. (1 month ago)
 
 #### 📫 How to reach me
