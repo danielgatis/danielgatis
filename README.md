@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
-- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (5 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (6 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (6 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (3 weeks ago)
 
