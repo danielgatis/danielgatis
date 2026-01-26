@@ -8,7 +8,7 @@
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY). (3 weeks ago)
+- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (3 weeks ago)
 
 #### 🌱 My latest projects
 
