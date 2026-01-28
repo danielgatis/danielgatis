@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 day ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 days ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
@@ -23,7 +23,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 3 weeks ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 3 weeks ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
-- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 3 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
+- [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 4 weeks ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 1 month ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
@@ -31,10 +31,10 @@
 
 #### ⭐ Recent Stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ (1 day ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ (2 days ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (3 weeks ago)
 - [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (3 weeks ago)
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (4 weeks ago)
 - [vito/midterm](https://github.com/vito/midterm) - a pretty mid terminal emulator (1 month ago)
 
 #### 📫 How to reach me
