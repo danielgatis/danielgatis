@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (4 days ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
-- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (1 week ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 weeks ago)
+- [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (2 weeks ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 4 weeks ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.72](https://github.com/danielgatis/rembg/releases/tag/v2.0.72), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 1 month ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 1 month ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 1 month ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source. (6 days ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source. (1 week ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 month ago)
 - [blacktop/go-termimg](https://github.com/blacktop/go-termimg) - Modern terminal image library for Go (1 month ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 month ago)
