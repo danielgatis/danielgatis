@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/claude-gitmind](https://github.com/danielgatis/claude-gitmind) - Semantic memory for Claude Code - indexes git commits with AI summaries and embeddings (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (4 days ago)
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
-- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/claude-gitmind](https://github.com/danielgatis/claude-gitmind) - Semantic memory for Claude Code - indexes git commits with AI summaries and embeddings
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) - 
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal.
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects.
-- [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies.
 
 #### 🔭 Latest releases I've contributed to
 
