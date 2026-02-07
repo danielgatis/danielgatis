@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/claude-gitmind](https://github.com/danielgatis/claude-gitmind) - Semantic memory for Claude Code - indexes git commits with AI summaries and embeddings (today)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (4 days ago)
+- [danielgatis/claude-gitmind](https://github.com/danielgatis/claude-gitmind) - Semantic memory for Claude Code - indexes git commits with AI summaries and embeddings (1 day ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (5 days ago)
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 
