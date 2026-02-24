@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
+- [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 weeks ago)
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) -  (1 month ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 month ago)
@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [gammons/ai-session](https://github.com/gammons/ai-session) - Persist Claude Code conversation transcripts as git artifacts, linked bidirectionally to commits and PRs. (today)
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI (6 days ago)
+- [gammons/ai-session](https://github.com/gammons/ai-session) - Persist Claude Code conversation transcripts as git artifacts, linked bidirectionally to commits and PRs. (1 day ago)
+- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI (1 week ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 weeks ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (4 weeks ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (1 month ago)
