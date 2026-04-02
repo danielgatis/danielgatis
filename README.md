@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.74](https://github.com/danielgatis/rembg/releases/tag/v2.0.74), 1 week ago) - Rembg is a tool to remove images background
-- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 2 months ago) - Headless, but fully terminal.
+- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 3 months ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 3 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 3 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.11](https://github.com/danielgatis/go-vte/releases/tag/v1.0.11), 3 months ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
