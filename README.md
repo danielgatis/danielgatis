@@ -28,8 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add device custom fields](https://github.com/shellhub-io/shellhub/pull/6248) on [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) (1 day ago)
-- [feat: add device custom fields](https://github.com/danielgatis/shellhub/pull/1) on [danielgatis/shellhub](https://github.com/danielgatis/shellhub) (1 day ago)
 
 #### ⭐ Recent Stars
 
