@@ -28,8 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(namespace): add device auto-accept setting](https://github.com/shellhub-io/shellhub/pull/6264) on [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) (today)
-- [feat(namespace): add device auto-accept setting](https://github.com/danielgatis/shellhub/pull/2) on [danielgatis/shellhub](https://github.com/danielgatis/shellhub) (today)
 
 #### ⭐ Recent Stars
 
