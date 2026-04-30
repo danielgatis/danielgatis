@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add MCP server with OAuth 2.1 authentication](https://github.com/shellhub-io/shellhub/pull/6266) on [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) (today)
 
 #### ⭐ Recent Stars
 
