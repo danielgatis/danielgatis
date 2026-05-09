@@ -33,7 +33,7 @@
 
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (1 week ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump (1 month ago)
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation, and backups (1 month ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 months ago)
 - [gammons/ai-session](https://github.com/gammons/ai-session) - Persist Claude Code conversation transcripts as git artifacts, linked bidirectionally to commits and PRs. (2 months ago)
 
