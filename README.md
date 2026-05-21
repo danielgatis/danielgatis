@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (3 days ago)
+- [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (4 days ago)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 month ago)
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (2 weeks ago)
+- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (3 weeks ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management (2 months ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 months ago)
