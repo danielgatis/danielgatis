@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (1 week ago)
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (1 week ago)
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 month ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 month ago)
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal. (2 months ago)
