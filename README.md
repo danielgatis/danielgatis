@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (3 weeks ago)
+- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (4 weeks ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management (2 months ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 months ago)
