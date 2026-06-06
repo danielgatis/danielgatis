@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.0), today) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 3 days ago) - Rembg is a tool to remove images background
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.24.2](https://github.com/shellhub-io/shellhub/releases/tag/v0.24.2), 1 month ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 5 months ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 5 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-ansicode](https://github.com/danielgatis/go-ansicode) ([v1.0.14](https://github.com/danielgatis/go-ansicode/releases/tag/v1.0.14), 5 months ago) - go-ansicode is a package that interprets ANSI codes and allows you to register a handler to deal with the operations.
