@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (1 day ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (3 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 1 day ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 2 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 1 week ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 5 months ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 5 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
