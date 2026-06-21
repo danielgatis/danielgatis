@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 days ago)
-- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (3 days ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 days ago)
+- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (4 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects. (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 2 days ago) - Display images and gifs in your terminal.
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 3 days ago) - Display images and gifs in your terminal.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 1 week ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 5 months ago) - Headless, but fully terminal.
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add imgcat](https://github.com/conda-forge/staged-recipes/pull/33769) on [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (2 days ago)
+- [Add imgcat](https://github.com/conda-forge/staged-recipes/pull/33769) on [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (3 days ago)
 
 #### ⭐ Recent Stars
 
