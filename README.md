@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (today)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (3 days ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (4 days ago)
 - [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (5 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add imgcat](https://github.com/conda-forge/staged-recipes/pull/33769) on [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (4 days ago)
 
 #### ⭐ Recent Stars
 
