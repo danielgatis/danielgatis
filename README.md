@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (1 day ago)
-- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (4 days ago)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (5 days ago)
-- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (6 days ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
+- [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (2 days ago)
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (5 days ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (6 days ago)
+- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (1 week ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 5 days ago) - Display images and gifs in your terminal.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 1 week ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 2 weeks ago) - Rembg is a tool to remove images background
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 6 days ago) - Display images and gifs in your terminal.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 2 weeks ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 5 months ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 5 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 
