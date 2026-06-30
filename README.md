@@ -24,7 +24,7 @@
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 2 weeks ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 5 months ago) - Headless, but fully terminal.
-- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 5 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
+- [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 6 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
 
 #### 🔨 My recent Pull Requests
 
