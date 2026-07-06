@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), today) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 2 weeks ago) - Display images and gifs in your terminal.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.25.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.25.1), 3 weeks ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.76](https://github.com/danielgatis/rembg/releases/tag/v2.0.76), 1 month ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 6 months ago) - Headless, but fully terminal.
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) ([v1.0.0](https://github.com/danielgatis/go-pty/releases/tag/v1.0.0), 6 months ago) - A simple Go library for creating and managing pseudo-terminals (PTY).
