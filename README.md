@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (2 weeks ago)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (2 weeks ago)
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 weeks ago)
-- [danielgatis/chip8](https://github.com/danielgatis/chip8) - A CHIP-8 emulator for Rust in ~350 LOC. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (today)
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (2 months ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…) (3 months ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management (3 months ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 months ago)
-- [gammons/ai-session](https://github.com/gammons/ai-session) - Persist Claude Code conversation transcripts as git artifacts, linked bidirectionally to commits and PRs. (4 months ago)
 
 #### 📫 How to reach me
 
