@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/playwright-recaptcha-solver](https://github.com/danielgatis/playwright-recaptcha-solver) - Solve reCAPTCHA v2 audio challenge using Playwright (today)
+- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 - [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (3 weeks ago)
-- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (3 weeks ago)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/playwright-recaptcha-solver](https://github.com/danielgatis/playwright-recaptcha-solver) - Solve reCAPTCHA v2 audio challenge using Playwright
 - [danielgatis/dramatiq-pg](https://github.com/danielgatis/dramatiq-pg) - 
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY).
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal.
 - [danielgatis/go-reasonable-api](https://github.com/danielgatis/go-reasonable-api) - A reasonable API boilerplate for real-world projects.
-- [danielgatis/go-doom](https://github.com/danielgatis/go-doom) - Play classic DOOM in pure Go! Single binary with embedded game data, cross-platform, zero dependencies.
 
 #### 🔭 Latest releases I've contributed to
 
