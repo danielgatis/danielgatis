@@ -7,8 +7,8 @@
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (today)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (today)
 - [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (2 days ago)
-- [danielgatis/playwright-recaptcha-solver](https://github.com/danielgatis/playwright-recaptcha-solver) - Solve reCAPTCHA v2 audio challenge using Playwright (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove xorg-x11-server-Xvfb from yum_requirements](https://github.com/conda-forge/rembg-feedstock/pull/27) on [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) (today)
 - [Work around GitHub GraphQL resource limits on contribution queries](https://github.com/muesli/markscribe/pull/103) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 
 #### ⭐ Recent Stars
