@@ -28,8 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove xorg-x11-server-Xvfb from yum_requirements](https://github.com/conda-forge/rembg-feedstock/pull/27) on [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) (2 days ago)
-- [Work around GitHub GraphQL resource limits on contribution queries](https://github.com/muesli/markscribe/pull/103) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)
 
 #### ⭐ Recent Stars
 
