@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (1 day ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 day ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 day ago)
-- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (3 days ago)
+- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 days ago)
+- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 1 day ago) - dramatiq-postgres − Postgres Broker for Dramatiq
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.77](https://github.com/danielgatis/rembg/releases/tag/v2.0.77), 1 day ago) - Rembg is a tool to remove images background
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 1 week ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 2 days ago) - dramatiq-postgres − Postgres Broker for Dramatiq
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.77](https://github.com/danielgatis/rembg/releases/tag/v2.0.77), 2 days ago) - Rembg is a tool to remove images background
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 2 weeks ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) ([v1.0.23](https://github.com/danielgatis/imgcat/releases/tag/v1.0.23), 1 month ago) - Display images and gifs in your terminal.
 - [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) ([v1.0.9](https://github.com/danielgatis/go-headless-term/releases/tag/v1.0.9), 6 months ago) - Headless, but fully terminal.
 
 #### 🔨 My recent Pull Requests
 
-- [Remove xorg-x11-server-Xvfb from yum_requirements](https://github.com/conda-forge/rembg-feedstock/pull/27) on [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) (1 day ago)
-- [Work around GitHub GraphQL resource limits on contribution queries](https://github.com/muesli/markscribe/pull/103) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [Remove xorg-x11-server-Xvfb from yum_requirements](https://github.com/conda-forge/rembg-feedstock/pull/27) on [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) (2 days ago)
+- [Work around GitHub GraphQL resource limits on contribution queries](https://github.com/muesli/markscribe/pull/103) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)
 
 #### ⭐ Recent Stars
 
