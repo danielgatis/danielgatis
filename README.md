@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. Drive it as a library or over a binary protocol on stdin/stdout or TCP. (1 day ago)
+- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (today)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 
-- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. Drive it as a library or over a binary protocol on stdin/stdout or TCP.
+- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/playwright-recaptcha-solver](https://github.com/danielgatis/playwright-recaptcha-solver) - Solve reCAPTCHA v2 audio challenge using Playwright
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY).
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.2](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.2), 1 day ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. Drive it as a library or over a binary protocol on stdin/stdout or TCP.
+- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.3](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.3), today) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 1 week ago) - dramatiq-postgres − Postgres Broker for Dramatiq
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.77](https://github.com/danielgatis/rembg/releases/tag/v2.0.77), 1 week ago) - Rembg is a tool to remove images background
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 2 weeks ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
