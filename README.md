@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 day ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 days ago)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
-- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 weeks ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 1 day ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 2 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 1 week ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 2 weeks ago) - dramatiq-postgres − Postgres Broker for Dramatiq
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.77](https://github.com/danielgatis/rembg/releases/tag/v2.0.77), 2 weeks ago) - Rembg is a tool to remove images background
@@ -28,7 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix parser reuse memory bugs, pool WASM instances, upgrade prism to 1.9.0](https://github.com/danielgatis/go-ruby-prism/pull/5) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (1 day ago)
+- [ci: clean up publish_docker workflow](https://github.com/danielgatis/rembg/pull/838) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
+- [Fix parser reuse memory bugs, pool WASM instances, upgrade prism to 1.9.0](https://github.com/danielgatis/go-ruby-prism/pull/5) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (2 days ago)
 
 #### ⭐ Recent Stars
 
