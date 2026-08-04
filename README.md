@@ -8,7 +8,7 @@
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 days ago)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
+- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: let sessions declare non-local capabilities](https://github.com/danielgatis/rembg/pull/839) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 - [ci: clean up publish_docker workflow](https://github.com/danielgatis/rembg/pull/838) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 - [Fix parser reuse memory bugs, pool WASM instances, upgrade prism to 1.9.0](https://github.com/danielgatis/go-ruby-prism/pull/5) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (2 days ago)
 
