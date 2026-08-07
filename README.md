@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (4 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (5 days ago)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (1 week ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 weeks ago)
@@ -20,17 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 4 days ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.78](https://github.com/danielgatis/rembg/releases/tag/v2.0.78), 1 day ago) - Rembg is a tool to remove images background
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 5 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 1 week ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 2 weeks ago) - dramatiq-postgres − Postgres Broker for Dramatiq
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.77](https://github.com/danielgatis/rembg/releases/tag/v2.0.77), 2 weeks ago) - Rembg is a tool to remove images background
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 1 month ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 
 #### 🔨 My recent Pull Requests
 
-- [feat: let sessions declare non-local capabilities](https://github.com/danielgatis/rembg/pull/839) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (2 days ago)
-- [ci: clean up publish_docker workflow](https://github.com/danielgatis/rembg/pull/838) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (3 days ago)
-- [Fix parser reuse memory bugs, pool WASM instances, upgrade prism to 1.9.0](https://github.com/danielgatis/go-ruby-prism/pull/5) on [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) (4 days ago)
+- [feat: let sessions declare non-local capabilities](https://github.com/danielgatis/rembg/pull/839) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (3 days ago)
+- [ci: clean up publish_docker workflow](https://github.com/danielgatis/rembg/pull/838) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (4 days ago)
 
 #### ⭐ Recent Stars
 
@@ -38,7 +37,7 @@
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (3 months ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) (4 months ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management (4 months ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 months ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (5 months ago)
 
 #### 📫 How to reach me
 
