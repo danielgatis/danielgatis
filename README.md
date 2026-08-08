@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: let sessions declare non-local capabilities](https://github.com/danielgatis/rembg/pull/839) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (4 days ago)
 
 #### ⭐ Recent Stars
 
