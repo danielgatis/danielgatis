@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (6 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 week ago)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (2 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (3 weeks ago)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (3 weeks ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.78](https://github.com/danielgatis/rembg/releases/tag/v2.0.78), 2 days ago) - Rembg is a tool to remove images background
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 6 days ago) - The Ruby Prism parser bindings to GO (without cgo)
-- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 1 week ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.78](https://github.com/danielgatis/rembg/releases/tag/v2.0.78), 3 days ago) - Rembg is a tool to remove images background
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 1 week ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 weeks ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 3 weeks ago) - dramatiq-postgres − Postgres Broker for Dramatiq
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 1 month ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 
