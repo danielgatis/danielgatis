@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 weeks ago)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (3 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.78](https://github.com/danielgatis/rembg/releases/tag/v2.0.78), 1 week ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.79](https://github.com/danielgatis/rembg/releases/tag/v2.0.79), today) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 2 weeks ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 3 weeks ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 1 month ago) - dramatiq-postgres − Postgres Broker for Dramatiq
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add opt-in color decontamination for soft edges](https://github.com/danielgatis/rembg/pull/843) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
 
