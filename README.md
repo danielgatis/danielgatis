@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add ViTMatte edge refinement behind -vm](https://github.com/danielgatis/rembg/pull/846) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 
 #### ⭐ Recent Stars
 
