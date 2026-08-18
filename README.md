@@ -31,7 +31,6 @@
 - [feat: add ViTMatte edge refinement behind -vm](https://github.com/danielgatis/rembg/pull/846) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 - [feat: make bria-rmbg the default model](https://github.com/danielgatis/rembg/pull/845) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 - [feat: store models in ~/.rembg/models/<model>/](https://github.com/danielgatis/rembg/pull/844) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
-- [feat: add opt-in color decontamination for soft edges](https://github.com/danielgatis/rembg/pull/843) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 
 #### ⭐ Recent Stars
 
