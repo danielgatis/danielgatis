@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: preload bria-rmbg in Docker images](https://github.com/danielgatis/rembg/pull/848) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (2 days ago)
 
 #### ⭐ Recent Stars
 
