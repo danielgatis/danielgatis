@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 days ago)
-- [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (4 days ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (5 days ago)
+- [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (3 weeks ago)
-- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (4 weeks ago)
+- [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.81](https://github.com/danielgatis/rembg/releases/tag/v2.0.81), 5 days ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.81](https://github.com/danielgatis/rembg/releases/tag/v2.0.81), 6 days ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 3 weeks ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 4 weeks ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) ([v1.1.0](https://github.com/danielgatis/dramatiq-postgres/releases/tag/v1.1.0), 1 month ago) - dramatiq-postgres − Postgres Broker for Dramatiq
