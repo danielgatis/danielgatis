@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(navigator): fall back when the NACP has no language entry](https://github.com/TooTallNate/nx.js/pull/415) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (today)
+- [fix(canvas): report vertical TextMetrics from measureText()](https://github.com/TooTallNate/nx.js/pull/414) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (today)
 
 #### ⭐ Recent Stars
 
