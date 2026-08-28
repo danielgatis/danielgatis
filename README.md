@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(inspector): expose the V8 inspector over the Chrome DevTools Protocol](https://github.com/TooTallNate/nx.js/pull/416) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (1 day ago)
-- [fix(navigator): fall back when the NACP has no language entry](https://github.com/TooTallNate/nx.js/pull/415) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (1 day ago)
-- [fix(canvas): report vertical TextMetrics from measureText()](https://github.com/TooTallNate/nx.js/pull/414) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (1 day ago)
+- [feat(inspector): expose the V8 inspector over the Chrome DevTools Protocol](https://github.com/TooTallNate/nx.js/pull/416) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (2 days ago)
+- [fix(navigator): fall back when the NACP has no language entry](https://github.com/TooTallNate/nx.js/pull/415) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (2 days ago)
+- [fix(canvas): report vertical TextMetrics from measureText()](https://github.com/TooTallNate/nx.js/pull/414) on [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 day ago)
-- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (3 days ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 days ago)
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (4 days ago)
 - [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (1 month ago)
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (3 months ago)
+- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (4 months ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) (4 months ago)
 
 #### 📫 How to reach me
