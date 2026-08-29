@@ -31,9 +31,9 @@
 
 #### ⭐ Recent Stars
 
-- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (today)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 days ago)
-- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (4 days ago)
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (1 day ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (3 days ago)
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (5 days ago)
 - [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (1 month ago)
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (4 months ago)
 
