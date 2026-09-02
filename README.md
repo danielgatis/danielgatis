@@ -6,7 +6,7 @@
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (today)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (today)
 - [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (2 weeks ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 month ago)
 
