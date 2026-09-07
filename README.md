@@ -28,8 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(django): read-only admin for the broker tables](https://github.com/danielgatis/dramatiq-postgres/pull/9) on [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) (today)
-- [feat(django): add DbConnectionsMiddleware](https://github.com/danielgatis/dramatiq-postgres/pull/8) on [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) (today)
 
 #### ⭐ Recent Stars
 
