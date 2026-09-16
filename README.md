@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge 8 open upstream PRs](https://github.com/danielgatis/nx.js/pull/1) on [danielgatis/nx.js](https://github.com/danielgatis/nx.js) (today)
 
 #### ⭐ Recent Stars
 
