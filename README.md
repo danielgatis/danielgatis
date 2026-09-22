@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: lazy-import gradio to stop CLI crash on malformed SOCKS proxy env](https://github.com/danielgatis/rembg/pull/856) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (2 days ago)
 
 #### ⭐ Recent Stars
 
