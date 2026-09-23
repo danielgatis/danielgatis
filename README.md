@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 weeks ago)
 - [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 2 days ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 3 days ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 1 month ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 1 month ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 2 months ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -32,8 +32,8 @@
 #### ⭐ Recent Stars
 
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (3 weeks ago)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (3 weeks ago)
-- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (4 weeks ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (4 weeks ago)
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (1 month ago)
 - [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (2 months ago)
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (4 months ago)
 
