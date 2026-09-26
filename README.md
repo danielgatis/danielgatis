@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 days ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (2 weeks ago)
 - [conda-forge/imgcat-feedstock](https://github.com/conda-forge/imgcat-feedstock) - A conda-smithy repository for imgcat. (1 month ago)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 5 days ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 6 days ago) - Rembg is a tool to remove images background
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.2.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.2.0), 1 month ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 months ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 2 months ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
