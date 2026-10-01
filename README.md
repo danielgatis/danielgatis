@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Optional chip select, contrast and wake](https://github.com/danielgatis/go-sh1106/pull/3) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (today)
 
 #### ⭐ Recent Stars
 
