@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (today)
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 days ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
-- [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 1 week ago) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 2 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 months ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.26.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.26.0), 3 months ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.6](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.6), 3 months ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
 #### 🔨 My recent Pull Requests
 
