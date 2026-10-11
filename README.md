@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 day ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (3 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 days ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (4 days ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 3 days ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 4 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 1 week ago) - SH1106 driver 1.3 OLED
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 2 weeks ago) - Rembg is a tool to remove images background
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 months ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.6](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.6), 3 months ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
