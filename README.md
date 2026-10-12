@@ -31,11 +31,11 @@
 
 #### ⭐ Recent Stars
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (1 month ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 month ago)
 - [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (1 month ago)
 - [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (3 months ago)
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (5 months ago)
 
 #### 📫 How to reach me
 
