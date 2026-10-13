@@ -16,11 +16,10 @@ jobs:
         with:
           go-version: stable
 
-      # Build markscribe from fork with a fix for GitHub GraphQL resource
-      # limits until https://github.com/muesli/markscribe/pull/103 is merged
-      # and the readme-scribe docker image is rebuilt.
+      # Build markscribe from upstream master (readme-scribe docker image is
+      # outdated).
       - run: |
-          git clone --depth 1 --branch fix-graphql-resource-limits https://github.com/danielgatis/markscribe /tmp/markscribe
+          git clone --depth 1 https://github.com/muesli/markscribe /tmp/markscribe
           go build -C /tmp/markscribe -o /tmp/markscribe/markscribe .
 
       - run: /tmp/markscribe/markscribe -write README.md templates/README.md.tpl
