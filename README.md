@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), today) - JavaScript runtime for Nintendo Switch homebrew applications
 - [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 6 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 1 week ago) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 months ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.6](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.6), 3 months ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
 #### 🔨 My recent Pull Requests
 
