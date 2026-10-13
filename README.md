@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (3 days ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
+- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (4 days ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (6 days ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 week ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 5 days ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 6 days ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 1 week ago) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.85](https://github.com/danielgatis/rembg/releases/tag/v2.0.85), 3 weeks ago) - Rembg is a tool to remove images background
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) ([v1.0.4](https://github.com/danielgatis/go-headless-nes/releases/tag/v1.0.4), 2 months ago) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (1 month ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (1 month ago)
 - [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (1 month ago)
