@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (6 days ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 week ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 week ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 week ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 weeks ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (2 weeks ago)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.27.4](https://github.com/shellhub-io/shellhub/releases/tag/v0.27.4), today) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.86](https://github.com/danielgatis/rembg/releases/tag/v2.0.86), 6 days ago) - Rembg is a tool to remove images background
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.27.4](https://github.com/shellhub-io/shellhub/releases/tag/v0.27.4), 1 day ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.86](https://github.com/danielgatis/rembg/releases/tag/v2.0.86), 1 week ago) - Rembg is a tool to remove images background
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 2 weeks ago) - JavaScript runtime for Nintendo Switch homebrew applications
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 2 weeks ago) - The Ruby Prism parser bindings to GO (without cgo)
+- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 3 weeks ago) - The Ruby Prism parser bindings to GO (without cgo)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 3 weeks ago) - SH1106 driver 1.3 OLED
 
 #### 🔨 My recent Pull Requests
