@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (today)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (today)
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
-- [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), today) - SSD1680 driver 2.13 E-Ink
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), today) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), today) - Rembg is a tool to remove images background
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.29.3](https://github.com/shellhub-io/shellhub/releases/tag/v0.29.3), 1 day ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 3 weeks ago) - JavaScript runtime for Nintendo Switch homebrew applications
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) ([v1.3.0](https://github.com/danielgatis/go-ruby-prism/releases/tag/v1.3.0), 1 month ago) - The Ruby Prism parser bindings to GO (without cgo)
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.1](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.1), 1 month ago) - SH1106 driver 1.3 OLED
 
 #### 🔨 My recent Pull Requests
 
+- [feat(text): Scale and NewRendererWithFace](https://github.com/danielgatis/go-sh1106/pull/5) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (today)
 - [fix: align the driver with go-ssd1680](https://github.com/danielgatis/go-sh1106/pull/4) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (today)
-- [Harden the HTTP server and raise vulnerable dependency floors](https://github.com/danielgatis/rembg/pull/866) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
 
