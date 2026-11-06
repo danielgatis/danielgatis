@@ -5,18 +5,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (today)
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (4 weeks ago)
-- [danielgatis/go-ruby-prism](https://github.com/danielgatis/go-ruby-prism) - The Ruby Prism parser bindings to GO (without cgo) (1 month ago)
 
 #### 🌱 My latest projects
 
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink
 - [danielgatis/go-headless-nes](https://github.com/danielgatis/go-headless-nes) - A headless NES emulator core in Go. Zero dependencies, deterministic, cycle-accurate.
 - [danielgatis/playwright-recaptcha-solver](https://github.com/danielgatis/playwright-recaptcha-solver) - Solve reCAPTCHA v2 audio challenge using Playwright
 - [danielgatis/dramatiq-postgres](https://github.com/danielgatis/dramatiq-postgres) - dramatiq-postgres − Postgres Broker for Dramatiq
 - [danielgatis/go-pty](https://github.com/danielgatis/go-pty) - A simple Go library for creating and managing pseudo-terminals (PTY).
-- [danielgatis/go-headless-term](https://github.com/danielgatis/go-headless-term) - Headless, but fully terminal.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: align the driver with go-ssd1680](https://github.com/danielgatis/go-sh1106/pull/4) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (today)
 - [Harden the HTTP server and raise vulnerable dependency floors](https://github.com/danielgatis/rembg/pull/866) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
