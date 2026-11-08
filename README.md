@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(text): Scale and NewRendererWithFace](https://github.com/danielgatis/go-sh1106/pull/5) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (2 days ago)
 
 #### ⭐ Recent Stars
 
