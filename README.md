@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (1 day ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (1 day ago)
-- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (1 day ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 days ago)
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 days ago)
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (2 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (3 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 1 day ago) - SSD1680 driver 2.13 E-Ink
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 1 day ago) - SH1106 driver 1.3 OLED
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 1 day ago) - Rembg is a tool to remove images background
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.29.3](https://github.com/shellhub-io/shellhub/releases/tag/v0.29.3), 2 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 2 days ago) - SSD1680 driver 2.13 E-Ink
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 2 days ago) - SH1106 driver 1.3 OLED
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 2 days ago) - Rembg is a tool to remove images background
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.29.3](https://github.com/shellhub-io/shellhub/releases/tag/v0.29.3), 3 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 3 weeks ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
 #### 🔨 My recent Pull Requests
 
-- [feat(text): Scale and NewRendererWithFace](https://github.com/danielgatis/go-sh1106/pull/5) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (1 day ago)
+- [feat(text): Scale and NewRendererWithFace](https://github.com/danielgatis/go-sh1106/pull/5) on [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) (2 days ago)
 
 #### ⭐ Recent Stars
 
