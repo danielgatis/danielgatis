@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (3 days ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (3 days ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (3 days ago)
-- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (3 days ago)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (4 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 weeks ago)
 
