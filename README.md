@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (4 days ago)
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (4 days ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (4 days ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (5 days ago)
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (5 days ago)
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (5 days ago)
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (5 days ago)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (6 days ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.30.2](https://github.com/shellhub-io/shellhub/releases/tag/v0.30.2), today) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 4 days ago) - SSD1680 driver 2.13 E-Ink
-- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 4 days ago) - SH1106 driver 1.3 OLED
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 4 days ago) - Rembg is a tool to remove images background
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.30.2](https://github.com/shellhub-io/shellhub/releases/tag/v0.30.2), 1 day ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 5 days ago) - SSD1680 driver 2.13 E-Ink
+- [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 5 days ago) - SH1106 driver 1.3 OLED
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 5 days ago) - Rembg is a tool to remove images background
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 4 weeks ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
 #### 🔨 My recent Pull Requests
@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (2 months ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 months ago)
 - [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (2 months ago)
