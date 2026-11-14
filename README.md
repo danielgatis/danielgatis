@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.30.4](https://github.com/shellhub-io/shellhub/releases/tag/v0.30.4), 1 day ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.30.4](https://github.com/shellhub-io/shellhub/releases/tag/v0.30.4), 2 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 1 week ago) - SSD1680 driver 2.13 E-Ink
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 1 week ago) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 1 week ago) - Rembg is a tool to remove images background
