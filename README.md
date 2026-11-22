@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.31.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.31.1), 2 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.31.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.31.1), 3 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 2 weeks ago) - SSD1680 driver 2.13 E-Ink
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 2 weeks ago) - SH1106 driver 1.3 OLED
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 2 weeks ago) - Rembg is a tool to remove images background
@@ -34,7 +34,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (2 months ago)
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) - JavaScript runtime for Nintendo Switch homebrew applications (2 months ago)
-- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (2 months ago)
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards. (3 months ago)
 - [PsycoStea/Pi-Zero-2W-Bad-USB](https://github.com/PsycoStea/Pi-Zero-2W-Bad-USB) - Configure your Pi Zero 2W to be a BadUSB (4 months ago)
 
 #### 📫 How to reach me
