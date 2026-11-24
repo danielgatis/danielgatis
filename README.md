@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (today)
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (2 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
 - [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (2 weeks ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,14 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.88](https://github.com/danielgatis/rembg/releases/tag/v2.0.88), today) - Rembg is a tool to remove images background
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.31.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.31.1), 5 days ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 2 weeks ago) - SSD1680 driver 2.13 E-Ink
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 2 weeks ago) - SH1106 driver 1.3 OLED
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.87](https://github.com/danielgatis/rembg/releases/tag/v2.0.87), 2 weeks ago) - Rembg is a tool to remove images background
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 1 month ago) - JavaScript runtime for Nintendo Switch homebrew applications
 
 #### 🔨 My recent Pull Requests
 
+- [ci: unpin Python patch version and move actions to Node 24](https://github.com/danielgatis/rembg/pull/869) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (today)
 
 #### ⭐ Recent Stars
 
