@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (today)
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background (1 day ago)
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) - SSD1680 driver 2.13 E-Ink (2 weeks ago)
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) - SH1106 driver 1.3 OLED (2 weeks ago)
-- [conda-forge/rembg-feedstock](https://github.com/conda-forge/rembg-feedstock) - A conda-smithy repository for rembg. (2 weeks ago)
 - [danielgatis/dotfiles](https://github.com/danielgatis/dotfiles) - My dot files (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: unpin Python patch version and move actions to Node 24](https://github.com/danielgatis/rembg/pull/869) on [danielgatis/rembg](https://github.com/danielgatis/rembg) (1 day ago)
 
 #### ⭐ Recent Stars
 
