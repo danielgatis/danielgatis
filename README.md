@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.32.0](https://github.com/shellhub-io/shellhub/releases/tag/v0.32.0), today) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) ([v2.0.88](https://github.com/danielgatis/rembg/releases/tag/v2.0.88), 2 days ago) - Rembg is a tool to remove images background
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) ([v0.31.1](https://github.com/shellhub-io/shellhub/releases/tag/v0.31.1), 1 week ago) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [danielgatis/go-ssd1680](https://github.com/danielgatis/go-ssd1680) ([v1.0.0](https://github.com/danielgatis/go-ssd1680/releases/tag/v1.0.0), 2 weeks ago) - SSD1680 driver 2.13 E-Ink
 - [danielgatis/go-sh1106](https://github.com/danielgatis/go-sh1106) ([v1.0.2](https://github.com/danielgatis/go-sh1106/releases/tag/v1.0.2), 2 weeks ago) - SH1106 driver 1.3 OLED
 - [TooTallNate/nx.js](https://github.com/TooTallNate/nx.js) ([v1.0.0-beta.7](https://github.com/TooTallNate/nx.js/releases/tag/v1.0.0-beta.7), 1 month ago) - JavaScript runtime for Nintendo Switch homebrew applications
